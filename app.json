@@ -1,16 +1,16 @@
 {
-    "name": "Queen Amdi 3.6.2v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "name": "Maevb0t",
+    "description": "Maevb0t ....",
     "keywords": [
-        "Queen Amdi",
+        "Maevb0t",
         "WhatsApp",
         "User Bot",
         "Chat bot",
         "Button bot",
         "Black Amda"
     ],
-    "website": "https://amdaniwasa.com",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "website": "https://maevwat.com",
+    "logo": "https://i.redd.it/snoovatar/avatars/0487244e-fc8b-47fa-a664-fbcc62019fd0.png",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
@@ -31,7 +31,7 @@
         "ALIVE_LOGO": {
             "description": "Picture with alive message. Paste an image direct link or do '.setalive' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/cQrnsXq/Queen-Amdi-Alive.jpg"
+            "value": "https://i.redd.it/snoovatar/avatars/0487244e-fc8b-47fa-a664-fbcc62019fd0.png"
         },
         "ALIVE_MESSAGE": {
             "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.",
@@ -75,12 +75,12 @@
         "BYE_LOGO": {
             "description": "Picture with good bye message. Paste an image direct link or do '.setbye' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/pbjB2pS/93f527f9f2fb.jpg"
+            "value": "https://i.redd.it/snoovatar/avatars/0487244e-fc8b-47fa-a664-fbcc62019fd0.png"
         },
         "CAP": {
             "description": "Caption of media files.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₂"
+            "value": "maev got you"
         },
         "DEMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.demote' command. If you do not want to change it, keep 'default'.",
@@ -94,7 +94,7 @@
         },
         "GAN_IMAGE": {
             "description": "No need to change.",
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://i.redd.it/snoovatar/avatars/0487244e-fc8b-47fa-a664-fbcc62019fd0.png"
         },
         "HANDLERS": {
             "description": "Enter bot prefix to use commands. (Don't delete ^[ ])",
@@ -123,7 +123,7 @@
         "MENU": {
             "description": "Set your command to get full command list.",
             "required": true,
-            "value": "panel"
+            "value": "help"
         },
         "MUTE_MESSAGE": {
             "description": "The message that appears when typing the '.mute' command. If you do not want to change it, keep 'default'.",
@@ -166,7 +166,7 @@
         "WELCOME_LOGO": {
             "description": "Picture with welcome message. Paste an image direct link or do '.setwelcome' command after deploying the bot.",
             "required": true,
-            "value": "https://i.ibb.co/XCfhtfH/301820a4f3c0.jpg"
+            "value": "https://i.redd.it/snoovatar/avatars/0487244e-fc8b-47fa-a664-fbcc62019fd0.png"
         },
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
